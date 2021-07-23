@@ -1,45 +1,40 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Rafael Camargos",
+    "occupation": "Software Engineer",
+    "description": "I have a demonstrated history of working in the information technology and services industry. Strong engineering professional with a Bachelor's degree focused in Mechatronics, Robotics, and Automation Engineering from CEFET-MG, Brazil",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "rafaellucascamargos@yahoo.com.br",
+    "phone": "+55-48-991636367",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Florianopolis",
+      "country": "Brazil",
+      "state": "SC",
+      "zip": "88034100"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://rcamargos.dev/",
+    "resumedownload": "https://rcamargos.dev/",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "http://facebook.com/rlcamargos",
         "className": "fa fa-facebook"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/rcamargos/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "http://instagram.com/rlcamargos",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "http://github.com/rlcamargos",
         "className": "fa fa-github"
       }
     ]
@@ -48,106 +43,94 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University",
+        "degree": "Bachelor's degree, Mechatronics, Robotics, and Automation Engineering",
+        "graduated": "2016",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Daitan Group",
+        "title": "Software Engineer",
+        "years": "Jun 2021 - Present",
+        "description": "As a software engineer, I help to maintain the security infrastructure of an edge cloud computing software used by the most demanding applications in the industry. Main tech stack: \n • Kubernetes \n • Docker Registry \n • Helm \n • Armada \n • X.509"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Brick Abode",
+        "title": "Software Engineer",
+        "years": "Mar 2019 - May 2021",
+        "description": "As a full-stack web developer, I've maintained a high-performance auction house built mainly on Django & React. The roles I've played here: \r • Main Backend Dev & Tech Lead - Implemented: new features, JSON endpoints, API integrations, services, web scraping. Also fixed bugs on a daily basis. \n • Architect - On top of the Django infrastructure I've: designed new features, proposed architecture changes and refactors, implemented code best practices. Also helped to scale the application and make it more testable. \n • DevOps Specialist - Used GitLab CI/CD toolset to orchestrate the code flow from the dev side all the day down to production, lead the migration of the website services to AWS EC2 and RDS, built customized automation tools, set up the system monitoring tools using New Relic, among others activities. \n • QA Analyst - On a daily basis I would check in changes and run tests both manually and automatically to ensure all the requirements criteria are met, the system is functional and there is no weakness. Also contributed to the automated tests infrastructure. \n • Frontend Dev - Built a few React pages that are still production live."
+      },
+      {
+        "company": "Master Internet",
+        "title": "Network Operations Analyst",
+        "years": "Aug 2018 - Nov 2018",
+        "description": "Responsible for constant monitoring of the core network to assure smooth operability. B2B customer service, support, taking care of DDoS attacks, power outages, network failures, and routing black-holes."
+      },
+      {
+        "company": "Gerdau",
+        "title": "Mechatronics Engineer Intern",
+        "years": "Feb 2017 - Mar 2018",
+        "description": "Participated in many initiatives of innovation and improvements in the metallurgical industry, where helped building and maintaining the automation around the plant through the usage of: • Android programming • C++ • Artificial Intelligence - Neural Networks • Computer Vision • PLCs programming"
       }
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Python",
+        "level": "100%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
+        "name": "Django",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "Android",
+        "level": "80%"
+      },
+      {
+        "name": "DevOps",
+        "level": "80%"
+      },
+      {
+        "name": "CI/CD",
+        "level": "80%"
+      },
+      {
+        "name": "Linux",
+        "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
+      },
+      {
+        "name": "Kubernetes",
         "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Solid dev, great guy, knocks problems down like there's no tomorrow.",
+        "user": "Eduardo Bellani"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I have worked with Rafael for about 1 year and a half, initially tutoring him on Python, Django and React, and later working side-by-side solving all sorts of front-end, back-end, and infra structure tasks. Coming from a Mechanical/Electrical Engineer background, the entire web technology was new to him, and he quickly acquired mastery of it. He is a quick learner! Rafael is also eager to assume responsibility and leadership. Back in college he leaded a winning team on a national Robotics competition, and, by the time left the software project we worked together, he was tech leader and designer! Rafael genuinely cares about software quality, best practices, and architectural consistency - concerns which made him teach leader very early on his career. If you are looking for someone to take care of your software project - on all the technological and other tangential aspects associated with it - I recommend you give him a call!",
+        "user": "Juarez Aires Sampaio Filho"
       }
     ]
   }
