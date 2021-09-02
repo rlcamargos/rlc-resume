@@ -24,8 +24,16 @@ class About extends Component {
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
-
-            <p>{bio}</p>
+            <p>I'm a born technology-enthusiast that graduated in Mechatronics Engineering while pursuing my dream of being a scientist. A few years ahead, here I stand in the software industry making, on a daily basis, that dream come true.</p>
+            <br></br>
+            <p>Some of my achievements:</p>
+            <p>• Helped a world-class royalties trading company to succeed in their business through the delivery and maintenance of many exciting new features in their website where I played roles in the whole SDLC stack: from quality assurance tester and full-stack developer to tech leading and team management.</p>
+            <p>• Developed and published an Android application to a sucessful innovative holographic experiences fin-tech.</p>
+            <p>• Introduced and contributed to many technological improvements in a steel mill.</p>
+            <p>• Lead a winning robotics team through 3 Latin American competitions.</p>
+            <br></br>
+            <p>Would like to get me on-boarded to a new adventure? Let's chat.</p>
+            <br></br>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
@@ -36,11 +44,6 @@ class About extends Component {
 						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>
-               </div>
-               <div className="columns download">
-                  <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
-                  </p>
                </div>
             </div>
          </div>

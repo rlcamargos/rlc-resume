@@ -2,7 +2,9 @@
   "main": {
     "name": "Rafael Camargos",
     "occupation": "Software Engineer",
-    "description": "I have a demonstrated history of working in the information technology and services industry. Strong engineering professional with a Bachelor's degree focused in Mechatronics, Robotics, and Automation Engineering from CEFET-MG, Brazil",
+    "description": "I'm an experienced engineer that helps companies outstand in their business through the solid application of different software technology stacks. Some of my achievements:",
+    "description_1": "• Helped a world-class royalties trading company to succeed in their business through the delivery and maintenance of many exciting new features in their website where I played roles in the whole SDLC stack from quality assurance tester, full-stack developer, tech lead up to the team management. • Successfully implemented an Android application to an innovative holographic experiences fin-tech. • Raised many technological improvements in a steel mill. • Lead a winning robotics team through 3 Latin American scoped competitions during graduation. Would like to get me on-boarded to a new adventure? Let's chat.",
+    "description_2": "Would like to get me on-boarded to a new adventure? Let's chat.",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -18,34 +20,29 @@
     "resumedownload": "https://rcamargos.dev/",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/rlcamargos",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/rcamargos/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/rlcamargos",
-        "className": "fa fa-instagram"
+        "name": "github",
+        "url": "https://github.com/rlcamargos",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "http://github.com/rlcamargos",
-        "className": "fa fa-github"
+        "name": "instagram",
+        "url": "https://www.instagram.com/rlcamargos/",
+        "className": "fa fa-instagram"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Some of my top skills",
     "education": [
       {
-        "school": "University",
-        "degree": "Bachelor's degree, Mechatronics, Robotics, and Automation Engineering",
-        "graduated": "2016",
+        "school": "CEFET-MG",
+        "degree": "Bachelor's degree, Mechatronics Engineering",
+        "graduated": "2017",
         "description": ""
       }
     ],
@@ -78,43 +75,63 @@
     "skills": [
       {
         "name": "Python",
-        "level": "100%"
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "95%"
       },
       {
         "name": "Django",
         "level": "90%"
       },
       {
-        "name": "Git",
+        "name": "Web Development",
         "level": "90%"
       },
       {
-        "name": "Web Development",
-        "level": "80%"
-      },
-      {
         "name": "Android",
-        "level": "80%"
+        "level": "85%"
       },
       {
-        "name": "DevOps",
-        "level": "80%"
-      },
-      {
-        "name": "CI/CD",
+        "name": "DevOps - CI/CD",
         "level": "80%"
       },
       {
         "name": "Linux",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Docker",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
+      },
+      {
+        "name": "C/C++",
         "level": "60%"
       },
       {
         "name": "Kubernetes",
         "level": "50%"
+      },
+      {
+        "name": "IT/IS Security",
+        "level": "40%"
+      },
+      {
+        "name": "Networks",
+        "level": "35%"
+      },
+      {
+        "name": "Computer Vision",
+        "level": "35%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "30%"
       }
     ]
   },
